@@ -7,6 +7,7 @@ then : git clone https://github.com/barneysolo/ETH-wallet-creator.git
 
 cd into the cloned folder then do : 
 npm install
+
 node joss.js
 
 select number 2 if you want to create unlimited wallet and goodluck!
