@@ -6,6 +6,7 @@ make sure you have the NODEJS installed and npm install web3
 then : git clone https://github.com/barneysolo/ETH-wallet-creator.git
 
 cd into the cloned folder then do : 
+
 npm install
 
 node joss.js
