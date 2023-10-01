@@ -1,0 +1,16 @@
+{
+  "name": "brutal",
+  "version": "1.0.0",
+  "description": "ea",
+  "main": "brutal.js",
+  "scripts": {
+    "start": "node brutal.js"
+  },
+  "author": "Nama Anda",
+  "license": "Lisensi Anda",
+  "dependencies": {
+    "ethers": "^6.7.1",
+    "fs-extra": "^11.1.1",
+    "web3": "^4.1.2"
+  }
+}
